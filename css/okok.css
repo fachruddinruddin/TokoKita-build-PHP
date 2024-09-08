@@ -1,0 +1,70 @@
+form.kontak {
+    margin: 30px auto;
+    padding-bottom: 20px;
+    width: 700px;
+    display: block;
+    border: 1px solid black;
+    margin-top: 10px;
+    padding-top: 30px;
+    background: white;
+    backdrop-filter: blur(10px);
+    text-align: center;
+}
+
+form.kontak input[type=text]{
+    background-color:rgb(230, 227, 227);
+    height: 35px;
+    width: 400px;
+    padding: 0px 10px;
+    border: 0px solid black;
+    border-radius: 5px;
+} 
+
+form.kontak textarea{
+    background-color:rgb(230, 227, 227);
+    height: 120px;
+    width: 414px;
+    padding: 5px 10px;
+    border: 0px solid black;
+    border-radius: 5px;
+}
+
+form.kontak input[type=submit] {
+    background-color:  #3399cc;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+form.kontak input[type=submit]:hover{
+    background-color: gray;
+}
+
+.video {
+    text-align: center;
+    width: 200px;
+    padding-left: 20px;
+    display: contents;
+}
+.service-icon{
+    border: 1px solid black;
+    padding: 20px;
+    background-color: white;
+}
+
+.borderku{
+    border: 1px solid black;
+    align-items: center;
+    padding: 20px 30px;
+    width: 600px;
+    padding: 20px;
+    background-color: white;
+}
+.ohhh{
+    align-items: center;
+    padding: 10px 290px;
+}
