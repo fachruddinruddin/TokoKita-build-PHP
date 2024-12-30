@@ -115,6 +115,7 @@ include 'dbconnect.php';
 			</div>
 
 			<div class="clearfix"> </div>
+			<h2>Server 2</h2>
 		</div>
 	</div>
 	<!-- //header -->
